@@ -28,7 +28,10 @@ public:
             if(l2) l2 = l2->next;
         }
 
-        return listNode->next;
+        ListNode* result = listNode->next;
+        delete listNode;
+
+        return result;
     }
 };
 
