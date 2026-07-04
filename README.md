@@ -17,8 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/soumitra-das-dev/leetcode/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/soumitra-das-dev/leetcode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/soumitra-das-dev/leetcode/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/soumitra-das-dev/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
